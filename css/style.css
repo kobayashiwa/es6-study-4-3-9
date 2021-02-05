@@ -56,6 +56,12 @@ ul, li {
 	background: rgba(241, 153, 21, 0.5);
 	margin: 0 auto;
 }
+@media screen and (max-width: 1000px) {
+	.logo {
+		width: 114px;
+		height: 114px;
+	}
+}
 
 /** header **/
 header {
