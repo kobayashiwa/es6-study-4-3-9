@@ -90,12 +90,14 @@ nav {
 /** main **/
 main {
 	width: 100%;
+	height: 200px;
 	background: #023373;
 }
 
 /** footer **/
 footer {
 	width: 100%;
+	height: 200px;
 	background: #037F8C;
 }
 
