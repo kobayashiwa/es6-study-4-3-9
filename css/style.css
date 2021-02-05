@@ -62,6 +62,15 @@ ul, li {
 		height: 114px;
 	}
 }
+@media screen and (max-width: 700px) {
+	.mv {
+		height: 600px;
+	}
+	.logo {
+		width: 118px;
+		height: 118px;
+	}
+}
 
 /** header **/
 header {
