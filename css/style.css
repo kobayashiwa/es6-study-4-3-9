@@ -50,6 +50,11 @@ ul, li {
 	height: 200px;
 	background: rgba(241, 153, 21, 0.5);
 }
+.logo {
+	width: 146px;
+	height: 146px;
+	background: rgba(241, 153, 21, 0.5);
+}
 
 /** header **/
 header {
