@@ -54,6 +54,7 @@ ul, li {
 	width: 146px;
 	height: 146px;
 	background: rgba(241, 153, 21, 0.5);
+	margin: 0 auto;
 }
 
 /** header **/
